@@ -1,7 +1,9 @@
 # ReLI-QA: A Multidimensional Quality Assessment Dataset for Relighted Human Heads (VCIP2024 Oral)
 A Multidimensional Quality Assessment Dataset for Relighted Human Heads
 ## 0. Access Link:
- [BaiduYunPan](https://pan.baidu.com/s/1oxmIG54QTQ9Kvhhr8QxpIw?pwd=reli)
+ [Images: BaiduYunPan](https://pan.baidu.com/s/1oxmIG54QTQ9Kvhhr8QxpIw?pwd=reli)
+ 
+ [MOSs: This Repo](https://github.com/zyj-2000/ReLI-QA/blob/main/reliqa_info.csv)
 
 ```
 @inproceedings{reliqa,
